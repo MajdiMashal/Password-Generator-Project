@@ -19,3 +19,9 @@ A simple yet effective Python program that generates strong, random passwords ba
 4. Run the script using the following command:
    ```bash
    python main.py   
+## 🎓 Purpose
+This project was created to showcase foundational programming skills for university admission purposes.
+
+## 👤 Author
+Majdi Mashal
+GitHub: [github.com/اMajdiMashal](https://github.com/MajdiMashal)   
